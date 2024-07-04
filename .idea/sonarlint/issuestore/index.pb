@@ -23,3 +23,6 @@ i
 9src/main/java/br/com/fiap/mslogin/MsloginApplication.java,7/3/73c59a868117e048f339b88e18ac2ea8b586691b
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+:
+
+Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4
