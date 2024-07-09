@@ -26,3 +26,15 @@ i
 :
 
 Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+d
+4src/main/java/br/com/fiap/mslogin/model/Usuario.java,a/3/a3d6c39f68b03c720d34968d228710a09df7ebb6
+m
+=src/main/java/br/com/fiap/mslogin/service/UsuarioService.java,1/f/1f7f84813f0953c2b5c8e0b2dcdf9768a4a954b7
+s
+Csrc/main/java/br/com/fiap/mslogin/controller/UsuarioController.java,2/c/2cf40cd5a6ea2b56acd276aad24f2397b8dbcbdb
+o
+?src/main/java/br/com/fiap/mslogin/model/dto/UsuarioRequest.java,c/5/c5fc761e1786240130d7dd65b3358ffcb269af1f
+l
+<src/main/java/br/com/fiap/mslogin/config/SecurityConfig.java,f/8/f87346ad1750aa4eabb67f2b2e136c0a31634d72
+s
+Csrc/main/java/br/com/fiap/mslogin/repository/UsuarioRepository.java,4/4/44b6fa37579c4343d7630fcd3fa9c99633444867
