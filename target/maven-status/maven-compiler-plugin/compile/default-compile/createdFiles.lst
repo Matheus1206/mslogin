@@ -1,0 +1,9 @@
+br/com/fiap/mslogin/config/SecurityConfig.class
+br/com/fiap/mslogin/controller/UsuarioController.class
+br/com/fiap/mslogin/service/UsuarioService.class
+br/com/fiap/mslogin/config/DadosTokenJWT.class
+br/com/fiap/mslogin/model/dto/UsuarioRequest.class
+br/com/fiap/mslogin/model/Usuario.class
+br/com/fiap/mslogin/config/TokenService.class
+br/com/fiap/mslogin/MsloginApplication.class
+br/com/fiap/mslogin/repository/UsuarioRepository.class
